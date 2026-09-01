@@ -1,0 +1,129 @@
+BRUGUI — tudo o que tem no sistema
+
+
+1. PRIMEIRA TELA
+   - Quanto falta pro nosso próximo encontro, em dias
+   - O nosso objetivo principal, com o progresso
+   - Como cada um de nós está hoje
+   - A pergunta do dia
+   - Dias de namoro
+   - Dias sem se ver
+   - Encontros já vividos
+   - Dias que a gente já passou lado a lado
+   - Quilômetros percorridos por nós dois
+   - Metas em andamento
+   - Cofrinho
+   - Datas chegando
+   - O que está esperando a gente resolver
+
+2. METAS
+   - Um objetivo principal fixo no topo (o nosso Norte)
+   - Metas de nós dois
+   - Metas suas e minhas, em colunas separadas
+   - Passos dentro de cada meta, pra ir marcando
+   - Campo "como seu par pode ajudar" em cada meta pessoal
+   - Ligação entre metas: a sua puxa a nossa junto
+   - Aviso de no prazo, apertada ou atrasada
+   - Metas concluídas ficam guardadas
+
+3. LINHA DO TEMPO
+   - Tudo o que tem data num eixo só, na ordem
+   - Encontros, prazos de meta, cofrinho e datas importantes
+   - Marcos próximos aparecem acesos
+   - Revisão do mês: o que avançou, o que travou, o que muda
+   - Cada um escreve a sua e vê a do outro
+   - Histórico das revisões anteriores
+
+4. COFRINHO
+   - Meta de dinheiro com valor e prazo
+   - Depósitos com data e observação
+   - Quanto cada um já colocou, separado
+   - Quanto falta
+   - Quanto precisa entrar por mês pra dar tempo
+   - Ligação com a meta correspondente
+
+5. ENCONTROS
+   - Encontros presenciais e chamadas marcadas
+   - Data, duração, lugar e anotações
+   - Despesas lançadas por cada um
+   - Conta de quem pagou mais, dividindo pela metade
+   - Custo previsto e total já investido
+   - Histórico dos encontros que já aconteceram
+   - Quilometragem de cada viagem
+
+6. DISTÂNCIA
+   - Há quantos dias a gente não se vê
+   - Quanto falta pro reencontro
+   - Maior tempo que já ficamos separados
+   - Dias que já passamos juntos
+   - Horários livres de cada um durante a semana
+   - Cruzamento dos dois: onde as nossas horas se encontram
+   - Conversão de fuso, se um estiver em outro lugar
+   - Plano pra acabar com a distância: cidade, data-alvo e passos
+   - Cada passo com o nome de quem cuida
+
+7. DIA A DIA
+   - Check-in diário de humor e energia, de 1 a 5
+   - Uma linha sobre o dia
+   - O check-in do outro aparece do lado
+   - Termômetro semanal: se a gente se falou o quanto você precisava, se você se sentiu ouvida, se recebeu o carinho que esperava
+   - Gráfico do termômetro ao longo das semanas
+   - Mural de recados
+   - Curtir o recado do outro
+   - Pedido da semana: o que você precisa nesses sete dias
+   - Mapa de humor dos últimos 14 dias, seu e meu
+   - Pergunta do dia, que só abre quando os dois respondem
+   - Histórico das perguntas já respondidas
+   - Registro do que cada um mexeu no sistema, com horário
+
+8. COMBINADOS
+   - Acordos escritos entre nós dois
+   - Um acordo só vale quando os dois aceitam
+   - Dá pra retirar o aceite ou arquivar
+   - Pauta da próxima conversa
+   - Nível de urgência: quando der, importante ou urgente
+   - Marcar assunto como já conversado
+
+9. LISTAS
+   - Filmes e séries pra ver juntos, com nota dos dois
+   - Lugares e viagens
+   - Lista de desejos de cada um
+   - Marcar presente como comprado em segredo: quem vai ganhar não vê
+
+10. MEMÓRIAS
+   - Álbum com foto, data e o que aconteceu
+   - Cartas para o futuro, com data de abertura
+   - Até o dia chegar, o outro só vê que a carta existe
+
+11. DATAS IMPORTANTES
+   - Aniversários, mêsversário e datas da família
+   - Contagem regressiva de cada uma
+   - Aviso com antecedência escolhida
+
+12. NOSSO ANO
+   - Retrospectiva com encontros, dias juntos, quilômetros e metas concluídas
+   - Quanto foi guardado e quanto foi investido em nós
+   - Humor médio do ano
+   - Memórias e combinados do período
+   - Dá pra salvar em PDF
+
+13. AJUSTES
+   - Dois visuais: roxo e preto, verde e preto
+   - Cada um escolhe o seu, sem mudar a tela do outro
+   - Seu nome, seu apelido, sua cidade e sua rotina
+   - Seus horários livres e seu fuso
+   - Nome do nosso espaço e a data em que começamos
+   - Troca de senha
+
+14. COMO FUNCIONA
+   - Site com login, abre no celular e no computador
+   - O que um escreve aparece pro outro na hora, sem atualizar a página
+   - Não tem botão de salvar no dia a dia: toca e já fica guardado
+   - Só nós dois temos acesso
+
+
+PRA ENTRAR
+   - Endereço: ____________________
+   - Seu e-mail: ____________________
+   - Sua senha: ____________________
+   - Código de convite, se pedir: ______

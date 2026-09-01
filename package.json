@@ -1,0 +1,14 @@
+{
+  "name": "brugui",
+  "version": "1.0.0",
+  "description": "Sistema web de planejamento do casal, pensado para namoro a distancia. Sem dependencias.",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node servidor.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "private": true,
+  "license": "UNLICENSED"
+}

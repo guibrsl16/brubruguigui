@@ -1,0 +1,13 @@
+# O que é de vocês dois nunca vai para o GitHub.
+dados/
+*.corrompido-*
+
+# Texto pessoal — tire daqui se quiser versionar junto.
+mensagem-para-ela.txt
+
+# Sobras do sistema operacional e do editor
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log
+node_modules/

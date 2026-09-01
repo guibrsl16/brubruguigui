@@ -1,0 +1,61 @@
+BRUGUI — como colocar pra funcionar
+===================================
+
+O QUE É
+Um site particular de vocês dois, com login, para planejar a vida a dois no namoro
+a distância. Funciona no computador e no celular.
+
+
+O QUE PRECISA
+Só o Node.js instalado. Nada de baixar biblioteca, nada de instalar banco de dados.
+Se ainda não tem: https://nodejs.org (baixe a versão LTS e instale no "avançar, avançar").
+
+
+COMO LIGAR
+1. Descompacte esta pasta onde você quiser (ex.: Documentos\Brugui).
+2. Abra o Prompt de Comando ou o PowerShell.
+3. Digite (trocando o caminho pelo lugar onde você descompactou):
+
+   node "C:\Users\SEU-USUARIO\Documentos\Brugui\servidor.js"
+
+4. Vai aparecer: Brugui rodando em http://localhost:3300
+5. Abra esse endereço no navegador.
+
+Enquanto essa janela preta estiver aberta, o site funciona. Se fechar, ele para.
+
+
+PRIMEIRO ACESSO
+1. Clique em "Criar conta" e deixe o campo de convite VAZIO — isso cria o espaço de vocês.
+2. Em Ajustes → Nosso espaço aparece um código de 6 letras.
+3. Ela cria a conta dela usando esse código. Pronto: as duas contas compartilham tudo.
+
+Cada espaço aceita no máximo duas pessoas.
+
+
+NO CELULAR, NA MESMA CASA
+Com o servidor ligado no computador, descubra o IP da máquina (digite ipconfig no Prompt
+e olhe o "Endereço IPv4", algo como 192.168.0.15). No celular, na mesma rede Wi-Fi, abra:
+
+   http://192.168.0.15:3300
+
+
+PARA ACESSAR DE OUTRA CIDADE
+Aí precisa hospedar em um servidor na internet. O passo a passo está no README.md,
+na seção "Para hospedar na internet". Resumo: sobe os arquivos num serviço com Node
+(Render, Railway, Fly.io ou uma VPS), roda o mesmo comando e usa HTTPS na frente.
+
+
+ONDE FICAM OS DADOS
+Tudo fica no arquivo dados/dados.json, dentro desta pasta. Ele é criado sozinho na
+primeira vez que você liga o sistema.
+
+Backup = copiar esse arquivo. Restaurar = colocar ele de volta e ligar de novo.
+
+
+ARQUIVOS DESTA PASTA
+   servidor.js ......... liga o sistema
+   README.md ........... explicação completa, com hospedagem
+   mensagem-para-ela.txt lista de tudo o que o sistema faz, pronta pra enviar
+   publico/ ............ as telas
+   dados/ .............. onde os dados de vocês vão ficar
+   os demais .js ....... as regras por trás das telas
